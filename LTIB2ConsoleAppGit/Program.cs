@@ -10,6 +10,9 @@ namespace LTIB2ConsoleAppGit
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Hello World");
+
         }
     }
 }

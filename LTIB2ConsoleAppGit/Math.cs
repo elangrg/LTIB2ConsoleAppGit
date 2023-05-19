@@ -18,22 +18,5 @@ namespace LTIB2ConsoleAppGit
         }
 
 
-        public static int Multi(int i, int j)
-        {
-
-            return i + j;
-
-
-        }
-
-
-        public static int Div(int i, int j)
-        {
-
-            return i + j;
-
-
-        }
-
     }
 }

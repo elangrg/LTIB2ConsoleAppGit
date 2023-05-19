@@ -18,5 +18,15 @@ namespace LTIB2ConsoleAppGit
         }
 
 
+        public static int Substract(int i, int j)
+        {
+
+            return i + j;
+
+
+        }
+
+
+
     }
 }

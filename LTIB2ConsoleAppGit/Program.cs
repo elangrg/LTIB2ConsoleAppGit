@@ -13,6 +13,16 @@ namespace LTIB2ConsoleAppGit
 
             Console.WriteLine("Hello World");
 
+            Display("Some Message!!!!");
+
+
         }
+        static void Display(string st)
+        {
+
+            Console.WriteLine(st);
+
+        }
+        
     }
 }
